@@ -1,2 +1,3 @@
 # ProjectEuler-HackerRank
-Some ways to solve problems in ProjectEuler+ on HackerRank with C++
+Some ways to solve problems in ProjectEuler+ on HackerRank with:
+* C++11
